@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a Canvas LMS clone & Secure File-Transfer Application<br>👯 I’m looking to collaborate on Full-stack applications with a strong UI/UX emphasis & mobile apps with real-world utility <br>🤝 I’m looking for help with advanced system design and distributed systems patterns & improving design consistency and micro-interactions in UI<br>🌱 I’m currently learning how to incorporate AI and agentic AI in my daily workflow<br>💬 Ask me about UI/UX design principles and web & mobile app development<br>⚡ Fun fact: I care as much about how something feels as how it works — clean UI can make or break a product
+🔭 I’m currently working on a native macOS Clipboard History & Secure File-Transfer application<br>👯 I’m looking to collaborate on Full-stack applications with a strong UI/UX emphasis & mobile apps with real-world utility <br>🤝 I’m looking for help with advanced system design and distributed systems patterns & improving design consistency and micro-interactions in UI<br>🌱 I’m currently learning how to incorporate AI and agentic AI in my daily workflow<br>💬 Ask me about UI/UX design principles and web & mobile app development<br>⚡ Fun fact: I care as much about how something feels as how it works — clean UI can make or break a product
 
 
 ## 🌐 Socials:
